@@ -1,5 +1,7 @@
 # House Price Prediction: Model Performance and Residual Diagnostics
 
+My CISC7204 semester project, **[Short Sleep, Heavier Counties](semester-project/)**, has its own research question, CDC data, reproducible analysis and figures in this repository.
+
 > **Project status:** Ongoing — reproducible demonstration using **synthetic** housing data. The demonstration must not be represented as a result from a real-world housing market or an earlier class assignment.
 
 ## 1. Research question

@@ -1,0 +1,5 @@
+outcome,estimate,ci_low,ci_high,counties
+Obesity,0.141264,0.100534,0.181995,2956
+Diagnosed diabetes,0.102898,0.088145,0.117651,2956
+Stroke,0.013572,0.009603,0.017541,2956
+Coronary heart disease,0.002474,-0.000911,0.005858,2956
